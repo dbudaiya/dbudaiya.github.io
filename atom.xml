@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2020-09-30T08:10:42.668Z</updated>
+  <updated>2020-09-30T08:32:01.881Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://example.com/2020/09/30/dage/"/>
     <id>http://example.com/2020/09/30/dage/</id>
     <published>2020-09-30T08:08:33.000Z</published>
-    <updated>2020-09-30T08:10:42.668Z</updated>
+    <updated>2020-09-30T08:32:01.881Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="大哥牛皮！！！！"><a href="#大哥牛皮！！！！" class="headerlink" title="大哥牛皮！！！！"></a>大哥牛皮！！！！</h1><p>小弟写个博客不简单啊.</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="大哥牛皮！！！！"><a href="#大哥牛皮！！！！" class="headerlink" title="大哥牛皮！！！！"></a>大哥牛皮！！！！</h1><p>小弟写个博客不简单啊.</p><div class="note default simple"><p>提示标签页</p></div>]]></content>
     
     
       
